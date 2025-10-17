@@ -1,0 +1,13 @@
+{
+  "name": "folder-organizer",
+  "version": "1.0.0",
+  "description": "A simple Node.js script to organize files inside a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samba Siva",
+  "license": "ISC",
+  "type": "commonjs"
+}
